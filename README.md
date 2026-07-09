@@ -13,7 +13,7 @@ PresentFast renders every deck inside a strict-CSP `about:srcdoc` iframe that **
 ```bash
 # Add this repo as a marketplace, then install the plugin.
 # The marketplace is named "presentfast-tools" (see .claude-plugin/marketplace.json).
-/plugin marketplace add CHANGE-ME/presentfast-hosting-plugin
+/plugin marketplace add PresentFast/presentfast-hosting-plugin
 /plugin install presentfast-hosting@presentfast-tools
 ```
 

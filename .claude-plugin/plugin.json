@@ -6,8 +6,8 @@
     "name": "Vishal Patel",
     "email": "vishal.patel@adeptnova.com"
   },
-  "homepage": "https://github.com/CHANGE-ME/presentfast-hosting-plugin",
-  "repository": "https://github.com/CHANGE-ME/presentfast-hosting-plugin",
+  "homepage": "https://github.com/PresentFast/presentfast-hosting-plugin",
+  "repository": "https://github.com/PresentFast/presentfast-hosting-plugin",
   "license": "MIT",
   "keywords": ["presentfast", "hosting", "html", "publishing", "csp", "dashboards", "static-site"]
 }
