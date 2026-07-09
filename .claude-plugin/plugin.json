@@ -1,0 +1,13 @@
+{
+  "name": "presentfast-hosting",
+  "version": "0.1.0",
+  "description": "Publish static HTML files, dashboards, and demos to presentfast.com correctly: inlines CDN scripts/styles and images to satisfy PresentFast's strict-CSP srcdoc iframe, embeds sibling HTML, uploads with the right tool, and verifies the live render.",
+  "author": {
+    "name": "Vishal Patel",
+    "email": "vishal.patel@adeptnova.com"
+  },
+  "homepage": "https://github.com/CHANGE-ME/presentfast-hosting-plugin",
+  "repository": "https://github.com/CHANGE-ME/presentfast-hosting-plugin",
+  "license": "MIT",
+  "keywords": ["presentfast", "hosting", "html", "publishing", "csp", "dashboards", "static-site"]
+}
