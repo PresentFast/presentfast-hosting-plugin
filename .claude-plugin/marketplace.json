@@ -1,0 +1,15 @@
+{
+  "name": "presentfast-tools",
+  "owner": {
+    "name": "Vishal Patel",
+    "email": "vishal.patel@adeptnova.com"
+  },
+  "plugins": [
+    {
+      "name": "presentfast-hosting",
+      "source": ".",
+      "description": "Publish static HTML files, dashboards, and demos to presentfast.com correctly: inline CDN scripts/styles and images for its strict-CSP srcdoc iframe, embed sibling HTML, upload with the right tool, and verify the live render.",
+      "version": "0.1.0"
+    }
+  ]
+}
