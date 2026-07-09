@@ -1,5 +1,6 @@
 {
   "name": "presentfast-tools",
+  "description": "Tools for hosting static HTML files, dashboards, and demos on presentfast.com.",
   "owner": {
     "name": "Vishal Patel",
     "email": "vishal.patel@adeptnova.com"
